@@ -17,7 +17,7 @@ if ( ! class_exists( 'Taxonomy_Single_Type' ) ) :
  * $custom_tax_mb->set( 'allow_new_terms', true );
  *
  * @link  http://codex.wordpress.org/Function_Reference/add_meta_box#Parameters
- * @link  https://github.com/WebDevStudios/Taxonomy_Single_Type/blob/master/README.md
+ * @link  https://github.com/3runoDesign/Taxonomy_Single_Type
  * @version  0.2.1
  */
 class Taxonomy_Single_Type {

@@ -8,7 +8,7 @@
     ],
     "type": "library",
     "autoload": {
-		"files": ["class.taxonomy-single-term.php"]
+		"files": ["class.taxonomy-single-type.php"]
 	},
     "require": {}
 }
