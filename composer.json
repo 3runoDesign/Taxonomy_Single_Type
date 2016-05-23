@@ -1,0 +1,14 @@
+{
+    "name": "3runodesign/taxonomy_single_type",
+    "authors": [
+        {
+            "name": "Bruno Fernando dos Santos Silva",
+            "email": "bruno2fernando@gmail.com"
+        }
+    ],
+    "type": "library",
+    "autoload": {
+		"files": ["class.taxonomy-single-term.php"]
+	},
+    "require": {}
+}
